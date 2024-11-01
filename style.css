@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.s{
+    text-align: center;
+    background-color: blanchedalmond;
+    width: 500px;
+    height: 200px;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+.s button{
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 30px;
+    border-radius:  10px;
+
+}
+.s input{
+    width: 190px;
+    height: 30px;
+}
+.s input{
+    border-radius: 10px ;
+}
